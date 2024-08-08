@@ -3,7 +3,7 @@
 ## Description
 202 People - Multi-angle Lip Multimodal Video Data. The collection environments include indoor natural light scenes and indoor fluorescent lamp scenes. The device is cellphone. The diversity includes multiple scenes, different ages, 13 shooting angles. The language is Mandarin Chinese. The recording content is general field, unlimited content. The data can be used in multi-modal learning algorithms research in speech and image fields.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1298?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1298?source=Github
 
 
 # Specifications
